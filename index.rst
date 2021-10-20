@@ -1,2 +1,1 @@
-#Hello page index
-this is page index
+<h1>Hello friends....</h1>
